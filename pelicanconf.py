@@ -22,6 +22,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = ()
 
+DISPLAY_PAGES_ON_MENU = True
+
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/lavriv92'),
           ('Twitter', 'https://twitter.com/ilavriv'),)
